@@ -1,0 +1,10 @@
+{
+  "operation": "1",
+  "username": "user0",
+  "works": [
+    {
+      "to_users": ["user1", "user2"],
+      "files": ["/home/nbaskey/Desktop/books/Computer Systems.pdf"]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "operation": "1",
+  "username": "user0",
+  "works": [
+    {
+      "to_users": ["user2", "user3"],
+      "files": [
+        "/home/nbaskey/Desktop/books/Packt.Advanced.Node.js.Development.1788393937.pdf"
+      ]
+    }
+  ]
+}

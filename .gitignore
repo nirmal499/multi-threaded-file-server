@@ -1,0 +1,8 @@
+.vscode
+__pycache__
+extra
+remaining
+*.class
+parallel_commands.sh
+result1.txt
+result2.txt
