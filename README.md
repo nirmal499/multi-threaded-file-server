@@ -6,6 +6,7 @@ from the server concurrently. This maximum number can be increased as per need.
 Go to the root directory
 
 $ javac -cp '.:jar*files/server/*' ClientHandler.java;
+
 $ javac -cp '.:jar*files/server/*' ServerDriver.java && java -cp '.:jar_files/server/\*' ServerDriver
 
 After that server will run
